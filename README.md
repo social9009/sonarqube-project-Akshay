@@ -12,8 +12,6 @@ This is a One-Stop solution real-time project on SonarQube to perform Code Quali
 
 For networking and further discussions, feel free to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastro-kiran/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm) - Join the DevOps technical discussions!
 
 ## 💬 Share Your Thoughts
 
@@ -25,5 +23,3 @@ Stay committed, stay curious, and let’s build a strong DevOps foundation toget
 
 ---
 
-<p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1733356800&v=beta&t=bz-SXs7FHwIDqQ9xlPibErrGvpHDdAjMJEr9WqHsi9A" alt="Kastro Profile Image
